@@ -89,8 +89,8 @@ http://localhost:5173/
 ```
 project_root/
 │  app.py                        # Pythonバックエンド
-│  eslint.config.js              # ESLintの設定ファイル（コード品質管理）
-│  index.html                    # エントリーポイントのHTMLファイル
+│  eslint.config.js*             # ESLintの設定ファイル（コード品質管理）
+│  index.html*                   # エントリーポイントのHTMLファイル
 │  Llama-3-ELYZA-JP-8B-q4_k_m.gguf # モデルファイル（日本語LLM）
 │  Modelfile                     # モデルの設定ファイル
 │  package-lock.json*            # npmの依存関係ロックファイル
