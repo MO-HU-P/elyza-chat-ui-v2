@@ -96,7 +96,7 @@ project_root/
 │  package-lock.json*            # npmの依存関係ロックファイル
 │  package.json*                 # npm依存関係とスクリプト設定
 │  postcss.config.js*            # PostCSSの設定ファイル
-│  server.js*                    # Node.jsサーバースクリプト（旧構成で削除予定）
+│  server.js*                    # Node.jsサーバースクリプト
 │  tailwind.config.js*           # Tailwind CSSの設定ファイル
 │  tsconfig.app.json*            # TypeScriptアプリケーション設定
 │  tsconfig.json*                # TypeScript全体の設定
